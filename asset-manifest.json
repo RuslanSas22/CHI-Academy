@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CHI-Academy/static/css/main.df3536f6.css",
+    "main.js": "/CHI-Academy/static/js/main.d7d523d7.js",
+    "index.html": "/CHI-Academy/index.html",
+    "main.df3536f6.css.map": "/CHI-Academy/static/css/main.df3536f6.css.map",
+    "main.d7d523d7.js.map": "/CHI-Academy/static/js/main.d7d523d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3536f6.css",
+    "static/js/main.d7d523d7.js"
+  ]
+}
